@@ -1,5 +1,7 @@
 # Reduct Video Experiments
 
+Web based video editor for creating shareable videos
+
 ## Requirements
 
 - Node 12.0.0 or higher
